@@ -11,8 +11,10 @@ Ejempo de ejecución del código:
 ## Funciones Lambda en Python
 
 
-Ejemplo de ejecución del código:
 En esta parte del laboratorio se trabajó con el archivo llamado calcualdora, el cual se debía modificar de tal manera que realizara las operaciones matemáticas con una respectiva función lambda. En primer lugar se modificó la función de ejecutar_operacion() para que se pudiera invocar cada operación correspondiente, para ello se eliminaron los if y elif y se remplazaron por un try y expect que ya contenía el paramentro, el cual se le otorga por medio de un parametro llamado operations definido dentro del main y un callback que devuelve los numeros ya introducidos de antes para que este pueda llamar a la función lambda que necesita para realizar la operación solicitada. Con respecto a las operaciones matemáticas, se definió cada una como una función lambda que recibía como parametro el numero 1 "x" y el numero 2 "y" y luego ejecutaba su función específica para luego devolverla como result, o de ser el caso algun error en particular.
+
+Ejemplo de ejecución del código:
+
 ![Screenshot 2023-12-02 190350](https://github.com/DanielValverde0203/Laboratorio-6/assets/143844258/c1581aac-4ad4-4857-b629-4d2c1bc48b82)
 
 
