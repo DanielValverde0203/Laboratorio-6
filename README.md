@@ -1,7 +1,14 @@
 # Laboratorio-6
 
-# Callbacks en Python
+## Callbacks en Python
 
 
 
-# Funciones Lambda en Python
+## Funciones Lambda en Python
+
+
+
+## Conclusiones
+
+
+
