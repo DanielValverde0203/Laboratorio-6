@@ -10,6 +10,10 @@ Ejempo de ejecución del código:
 ## Funciones Lambda en Python
 
 
+Ejemplo de ejecución del código:
+![Screenshot 2023-12-02 190350](https://github.com/DanielValverde0203/Laboratorio-6/assets/143844258/c1581aac-4ad4-4857-b629-4d2c1bc48b82)
+
+
 
 ## Conclusiones
 
